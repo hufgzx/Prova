@@ -1,0 +1,4 @@
+a. Pensamento Computacional = É uma estratégia usada para solução de problemas, que utiliza conceitos básicos da Computação
+b. Algoritmo =  conjunto de ordens aplicáveis ao contexto,  que soluciona o problema
+c. Programação = Aplica o conjunto de ordens(Algoritmo) em linguagem de programação
+d. Modularização com uso de funções = Dividi várias partes do sistema em partes menores que possuem tarefas específicas
